@@ -1,0 +1,7 @@
+total 60
+-rwxr-xr-x 1 baoba baoba 17072 Apr 13 13:17 chat_server
+-rw-r--r-- 1 baoba baoba  5375 Apr 13 13:10 chat_server.c
+-rw-r--r-- 1 baoba baoba    34 Apr 13 13:49 database.txt
+-rw-r--r-- 1 baoba baoba     0 Apr 13 13:58 out.txt
+-rwxr-xr-x 1 baoba baoba 16872 Apr 13 13:56 telnet_server
+-rw-r--r-- 1 baoba baoba  4548 Apr 13 13:55 telnet_server.c
